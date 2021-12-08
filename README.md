@@ -1,16 +1,14 @@
-# flutter_auth_ui
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74051388/145161112-a561a695-b5e2-4308-ad7b-3d92c7f1767d.png" width="500" height="400">
+	<h1>Flutter Auth UI</h1>
+	<br>
+	<br>
+	<br>
+</div>
 
-A new Flutter project.
 
-## Getting Started
+![authUI](https://user-images.githubusercontent.com/74051388/145160945-ae0e61e7-e9fa-49d5-9a30-c6f84bf4d45c.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
